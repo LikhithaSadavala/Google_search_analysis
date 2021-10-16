@@ -1,0 +1,4 @@
+pandas,pytrends,matplotlib
+
+Install pytrends: pip install pytrends
+Install matplotlib: pip install matplotlib (or) pip3 install matplotlib
